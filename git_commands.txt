@@ -1,0 +1,9 @@
+===============================================================
+This is my personal documentation  about my learning path
+some times it's dificult to keep track of all git commands,
+I end up forgeting what each command do, so this documentation
+It's a way to always be in touch with what I learn.
+===============================================================
+
+- git init
+    this is the way we initialize a repo
