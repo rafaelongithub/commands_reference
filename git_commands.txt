@@ -6,4 +6,13 @@ It's a way to always be in touch with what I learn.
 ===============================================================
 
 - git init
-    this is the way we initialize a repo
+    This is the way we initialize a repo
+
+- git push -u origin main
+    This is the way I submit my updates to the main branch
+    as you run a previus command like
+    "
+    git remote add origin
+    https://github.com/rafaelongithub/commands_reference.git
+    "
+    you will have saved the path to our project
